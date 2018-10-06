@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyHomeWork</string>
+    <string name="buttonPressToactivate">Перейдем в базу</string>
+    <string name="menu_item_start">Запустить настройки</string>
+    <string name="menu_item_exit">Выйти</string>
+    <string name="text_shared_pref">Запишите текст сюда и нажмите сохранить</string>
+</resources>
